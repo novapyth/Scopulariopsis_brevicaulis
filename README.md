@@ -3,4 +3,5 @@
 Genetics and genomics resources of Scopulariopsis brevicaulis
 
 
-https://github.com/drabhishekkumar/Scopulariopsis_brevicaulis/commit/13eef1f106b187064fcec8993496ff3d960e3466
+
+https://github.com/drabhishekkumar/Scopulariopsis_brevicaulis/blob/master/Scopulariopsis-NRPS1.jpg
